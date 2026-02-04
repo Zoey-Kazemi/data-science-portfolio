@@ -12,7 +12,7 @@ This is a copy of UCI ML Breast Cancer Wisconsin (Diagnostic) datasets.
 https://goo.gl/U2Uwz2
 
 ## Approach
-- Model training using:
+- Supervised classification using:
   - Decision Trees
   - Random Forests
 - Model evaluation using 10-fold cross-validated accuracy.
