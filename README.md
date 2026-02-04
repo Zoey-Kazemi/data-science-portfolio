@@ -2,7 +2,7 @@
 
 ## About Me
 I am a PhD-trained mathematician and current M.S. student in Data Science at the University of Texas at Austin.
-My interests include machine learning, statistical modeling, and interpretable algorithms.
+My interests include machine learning and statistical modeling.
 
 ## Skills
 - Python (NumPy, Pandas, Scikit-learn)
