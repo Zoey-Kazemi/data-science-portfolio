@@ -17,5 +17,5 @@ as malignant or benign.
   
 ## Results
 The Random Forest model achieved strong classification performance
-based on accuracy and confusion matrix evaluation.
+based on cross-validated accuracy.
 
