@@ -6,8 +6,8 @@ My interests include machine learning and statistical modeling.
 
 ## Skills
 - Python (NumPy, Pandas, Scikit-learn)
-- Machine Learning, Statistical Modeling
-- Data Structures and Algorithms
+- Machine Learning
+- Statistical Modeling
 
 ## Projects
 ### Breast Cancer Prediction
