@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me
-I am a PhD-trained mathematician and current M.S. student in Data Science at the University of Texas at Austin.
+I am a PhD mathematician and current M.S. student in Data Science at the University of Texas at Austin.
 My interests include machine learning and statistical modeling.
 
 ## Skills
