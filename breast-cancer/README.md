@@ -13,7 +13,8 @@ as malignant or benign.
 - Scikit-learn
 - Pandas
 - NumPy
-
+- matplotlib
+  
 ## Results
 The Random Forest model achieved strong classification performance
 based on accuracy and confusion matrix evaluation.
