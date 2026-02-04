@@ -5,9 +5,10 @@ The goal of this project was to classify breast tumors as malignant
 or benign using clinical features.
 
 ## Dataset
-The Breast Cancer Wisconsin (Diagnostic) dataset from scikit-learn
-(`sklearn.datasets.load_breast_cancer`) was used.
+The Breast Cancer Wisconsin (Diagnostic) dataset from scikit-learn was used.
 It contains 569 samples with 30 numerical features.
+This is a copy of UCI ML Breast Cancer Wisconsin (Diagnostic) datasets.
+https://goo.gl/U2Uwz2
 
 ## Approach
 - Model training using:
