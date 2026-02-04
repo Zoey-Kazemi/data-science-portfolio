@@ -20,5 +20,8 @@ https://goo.gl/U2Uwz2
 ## Results
 The Random Forest model outperformed the Decision Tree model.
 
-
+## Notes
+This project was originally completed as part of coursework.
+The full implementation is not publicly shared in accordance with
+course policy.
 
