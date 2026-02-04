@@ -1,21 +1,25 @@
 # Breast Cancer Prediction
 
-## Overview
-This project uses machine learning models to classify breast tumors
-as malignant or benign.
+## Problem
+The goal of this project was to classify breast tumors as malignant
+or benign using clinical features.
 
-## Methods
-- Decision Trees
-- Random Forests
+## Dataset
+The dataset was provided as part of a university course assignment
+and is not publicly shareable.
 
-## Tools
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
-- matplotlib
-  
+## Approach
+- Data preprocessing and feature standardization
+- Model training using:
+  - Decision Trees
+  - Random Forests
+- Model evaluation using accuracy and confusion matrices
+
 ## Results
-The Random Forest model achieved strong classification performance
-based on cross-validated accuracy.
+The Random Forest model outperformed the Decision Tree model,
+demonstrating improved generalization and robustness.
+
+## Key Takeaways
+- Ensemble methods reduce overfitting compared to single trees
+- Feature importance provides interpretability in medical contexts
 
