@@ -12,7 +12,7 @@ My interests include machine learning and statistical modeling.
 ## Projects
 ### Breast Cancer Prediction
 Decision Trees and Random Forests for classifying malignant vs benign tumors.
-[View project](breast-cancer-prediction/)
+[View project](breast-cancer/)
 
 ### Image Compression with SVD
 Low-rank approximation and reconstruction of face images using SVD.
