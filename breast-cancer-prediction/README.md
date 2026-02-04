@@ -18,7 +18,7 @@ https://goo.gl/U2Uwz2
 - Model evaluation using 10-fold cross-validated accuracy.
   
 ## Results
-The Random Forest model outperformed the Decision Tree model.
+The Random Forest model achieved higher accuracy compared to a single Decision Tree.
 
 ## Notes
 This project was originally completed as part of coursework.
