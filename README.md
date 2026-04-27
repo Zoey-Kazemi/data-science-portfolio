@@ -1,8 +1,7 @@
 # Data Science Portfolio
 
 ## About Me
-I am a PhD mathematician and current M.S. student in Data Science at the University of Texas at Austin.
-My interests include machine learning and statistical modeling.
+I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
 
 ## Skills
 - Python (NumPy, Pandas, Scikit-learn)
@@ -10,15 +9,20 @@ My interests include machine learning and statistical modeling.
 - Statistical Modeling
 
 ## Projects
-### Breast Cancer Prediction
+
+### 🦠 Global Tuberculosis Burden Analysis
+Analysis of global TB trends (2000–2023) using WHO data, including clustering and interactive mapping.
+[View project](tb-burden-analysis/)
+
+### 🎗️ Breast Cancer Prediction
 Decision Trees and Random Forests for classifying malignant vs benign tumors.
 [View project](breast-cancer-prediction/)
 
-### Image Compression with SVD
-Low-rank approximation and reconstruction of face images using SVD.
+### 🖼️ Image Compression with SVD
+Low-rank approximation and reconstruction of face images using singular value decomposition.
 
-### Unsupervised Clustering
-K-means clustering with PCA visualization.
+### 📊 Unsupervised Clustering
+K-means clustering with PCA-based visualization of high-dimensional data.
 
-### Data Structures
-Treap and B-Tree implementations.
+### 🌳 Data Structures
+Implementation of Treap and B-Tree data structures.
