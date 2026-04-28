@@ -28,14 +28,9 @@ Tuberculosis remains a major global health issue, especially in low- and middle-
 
 ## Visualization
 
-### Global and Regional Trends
-![Trend Plot](figures/fig1.png)
+👉 **Interactive report:** 
+[Open the full HTML report]([analysis.html](https://zoey-kazemi.github.io/data-science-portfolio/tb-burden-analysis/analysis.html))
 
-### Country-Level TB Burden (2023)
-![Map](figures/fig2.png)
-
-👉 **Interactive version:**  
-[Open the full HTML report](analysis.html)
 ## Tools
 
 R, tidyverse, ggplot2, patchwork, broom, sf, rnaturalearth, ggiraph
