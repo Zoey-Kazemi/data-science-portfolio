@@ -34,7 +34,8 @@ Tuberculosis remains a major global health issue, especially in low- and middle-
 ### Country-Level TB Burden (2023)
 ![Map](figures/fig2.png)
 
-👉 An interactive version of the map is available in the HTML file.
+👉 **Interactive version:**  
+[View full interactive report](analysis.html)
 
 ## Tools
 
