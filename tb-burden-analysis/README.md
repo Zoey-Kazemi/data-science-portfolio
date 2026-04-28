@@ -1,4 +1,4 @@
-# Global Tuberculosis Burden Analysis
+# 🦠 Global Tuberculosis Burden Analysis
 
 This project analyzes global tuberculosis (TB) burden using data from the World Health Organization (WHO) covering the period 2000–2023.
 
