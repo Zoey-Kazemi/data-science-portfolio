@@ -4,9 +4,9 @@
 I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
 
 ## Skills
-- Python (NumPy, Pandas, Scikit-learn)
-- Machine Learning
-- Statistical Modeling
+- Python (NumPy, Pandas, Scikit-learn), R (tidyverse, ggplot2)
+- Machine Learning: Classification, Clustering, PCA
+- Data Analysis: Data cleaning, statistical modeling, visualization 
 
 ## Projects
 
