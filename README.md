@@ -1,4 +1,4 @@
-# Data Science Portfolio
+## Data Science Portfolio
 
 ## About Me
 I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
