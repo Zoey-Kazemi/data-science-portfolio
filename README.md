@@ -9,7 +9,7 @@
 </td>
 <td>
 
-## About Me  
+<h2>About Me</h2>  
 I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
 
 </td>
