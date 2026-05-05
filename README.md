@@ -15,8 +15,6 @@ I am a PhD mathematician currently pursuing graduate studies in data science. My
 </td>
 </tr>
 </table>
-## About Me
-I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
 
 ## Skills
 - Python (NumPy, Pandas, Scikit-learn), R (tidyverse, ggplot2)
