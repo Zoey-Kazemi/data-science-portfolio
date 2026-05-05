@@ -1,7 +1,7 @@
 ## Data Science Portfolio
 
 <p align="center">
-  <img src="image/profile.JPEG" alt="Zoey" width="180" style="border-radius:50%;">
+  <img src="image/profile.JPEG" width="120" style="border-radius:50%;">
 </p>
 
 ## About Me
