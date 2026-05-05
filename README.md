@@ -1,5 +1,9 @@
 ## Data Science Portfolio
 
+<p align="center">
+  <img src="image/profile.jpeg" alt="Zohreh Kazemi" width="180" style="border-radius:50%;">
+</p>
+
 ## About Me
 I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
 
