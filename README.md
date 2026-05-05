@@ -1,9 +1,20 @@
 ## Data Science Portfolio
 
-<p align="center">
-  <img src="image/profile.JPEG" width="120" style="border-radius:50%;">
-</p>
+<table>
+<tr>
+<td style="vertical-align: top; padding-right: 20px;">
 
+<img src="image/profile.JPEG" width="140" style="border-radius:50%;">
+
+</td>
+<td>
+
+## About Me  
+I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
+
+</td>
+</tr>
+</table>
 ## About Me
 I am a PhD mathematician currently pursuing graduate studies in data science. My interests include machine learning and statistical modeling.
 
