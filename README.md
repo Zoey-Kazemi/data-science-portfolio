@@ -29,7 +29,7 @@ Analysis of global TB trends (2000–2023) using WHO data, including clustering 
 
 ### 🩺 Explainable Diabetes Prediction
 Decision Tree and Random Forest models for diabetes prediction, including exploratory data analysis, cross-validation, confusion matrix evaluation, and PCA-based visualization.
-[View project](diabetes-prediction/)
+[View project](diabetes-prediction-tree-models/)
 
 ### 🎗️ Breast Cancer Prediction
 Decision Trees and Random Forests for classifying malignant vs benign tumors.
