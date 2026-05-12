@@ -42,4 +42,4 @@ The project also includes:
 - Seaborn
 
 ## 📓 Full Notebook
-[View the complete notebook here](PASTE_YOUR_NOTEBOOK_LINK_HERE)
+[View the complete notebook here](https://zoey-kazemi.github.io/diabetes-prediction-tree-models/diabetes_prediction_tree_models.ipynb)
