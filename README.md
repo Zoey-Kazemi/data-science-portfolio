@@ -27,6 +27,10 @@ I am a PhD mathematician currently pursuing graduate studies in data science. My
 Analysis of global TB trends (2000–2023) using WHO data, including clustering and interactive mapping.
 [View project](tb-burden-analysis/)
 
+### 🩺 Explainable Diabetes Prediction
+Decision Tree and Random Forest models for diabetes prediction, including exploratory data analysis, cross-validation, confusion matrix evaluation, and PCA-based visualization.
+[View project](diabetes-prediction/)
+
 ### 🎗️ Breast Cancer Prediction
 Decision Trees and Random Forests for classifying malignant vs benign tumors.
 [View project](breast-cancer-prediction/)
