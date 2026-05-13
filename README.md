@@ -25,7 +25,7 @@ I am a PhD mathematician currently pursuing graduate studies in data science. My
 
 ### 🦠 Global Tuberculosis Burden Analysis
 Analysis of global TB trends (2000–2023) using WHO data, including clustering and interactive mapping.
-[View project](tb-burden-analysis/)
+[View project](tb-burden-project/)
 
 ### 🩺 Explainable Diabetes Prediction
 Decision Tree and Random Forest models for diabetes prediction, including exploratory data analysis, cross-validation, confusion matrix evaluation, and PCA-based visualization.
