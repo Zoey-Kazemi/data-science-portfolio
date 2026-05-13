@@ -31,6 +31,8 @@ Tuberculosis remains a major global health issue, especially in low- and middle-
 👉 **Interactive report:** 
 [Open the full HTML report](https://zoey-kazemi.github.io/data-science-portfolio/tb-burden-project/TB_report.html)
 
+👉 **Dashboard:**
+[Interactive Dashboard](https://zoey-kazemi.shinyapps.io/tb_dashboard/)
 ## Tools
 
 R, tidyverse, ggplot2, patchwork, broom, sf, rnaturalearth, ggiraph
